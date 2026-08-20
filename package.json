@@ -1,0 +1,12 @@
+{
+  "name": "inference-institute-org-profile",
+  "private": true,
+  "type": "module",
+  "description": "Organisation defaults and the profile README for Inference Institute.",
+  "scripts": {
+    "banner": "node scripts/gen-banner.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "^2.0.0"
+  }
+}
